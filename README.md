@@ -20,7 +20,7 @@
 
 [1]: https://twitter.com/OrlanDroyd
 [2]: https://www.linkedin.com/in/OrlanDroyd/
-[3]: https://www.instagram.com/OrlanDroyd
+[3]: https://www.instagram.com/orlandroyd/
 [4]: https://telegram.me/OrlanDroyd
 
 
