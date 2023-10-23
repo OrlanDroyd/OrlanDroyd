@@ -6,11 +6,10 @@
 <h1 align="center">Hi 👋, I'm Orlando Peña Fernández</h1>
 <h3 align="center">A passionate Android Developer from Cuba</h3>
 
+📫 How to reach me **orlandroyd@gmail.com**
+<br>
 
-<br>
-- 📫 How to reach me **orlandroyd@gmail.com**
-<br>
-- 📄 Know about my experiences [https://orlandroyd.github.io/](https://orlandroyd.github.io/)
+📄 Know about my experiences [https://orlandroyd.github.io/](https://orlandroyd.github.io/)
 
 
 <br>
