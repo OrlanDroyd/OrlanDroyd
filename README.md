@@ -1,8 +1,7 @@
 <div>
- 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient"/>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Orlando Peña Fernández</h1>
 <h3 align="center">A passionate Android Developer from Cuba</h3>
