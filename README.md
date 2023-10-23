@@ -5,15 +5,15 @@
 
 <h1 align="center">Hi 👋, I'm Orlando Peña Fernández</h1>
 <h3 align="center">A passionate Android Developer from Cuba</h3>
+<br>
 
 📫 How to reach me **orlandroyd@gmail.com**
 <br>
 
 📄 Know about my experiences [https://orlandroyd.github.io/](https://orlandroyd.github.io/)
-
-
 <br>
 <br>
+
 <h2>Social Networks</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
@@ -27,8 +27,8 @@
 [3]: https://www.instagram.com/orlandroyd/
 [4]: https://telegram.me/OrlanDroyd
 
-
-<h3>Skills</h2>
+<br>
+<h2>Skills</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
