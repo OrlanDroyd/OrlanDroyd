@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Orlando Peña Fernández</h1>
-<h3 align="center">A passionate Android Developer from Cuba</h3>
+<h3 align="center">A passionate Android Developer</h3>
 <br>
 
 📫 How to reach me **orlandroyd@gmail.com**
