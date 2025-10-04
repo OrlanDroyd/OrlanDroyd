@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Orlando Peña Fernández</h1>
+<h1 align="center">Hi 👋, I'm Orlando Fernández</h1>
 <h3 align="center">A passionate Android Developer</h3>
 <br>
 
