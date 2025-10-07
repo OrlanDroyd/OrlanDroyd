@@ -10,7 +10,7 @@
 📫 How to reach me **orlandroyd@gmail.com**
 <br>
 
-📄 Know about my experiences [https://orlandroyd.is-a.dev/](https://orlandroyd.is-a.dev/)
+📄 Know about my experiences [orlandroyd.is-a.dev/](https://orlandroyd.is-a.dev/)
 <br>
 <br>
 
