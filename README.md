@@ -38,7 +38,7 @@ data class Developer(
 ```
 
 - 🔭 Currently building at **La Redoute** (via Decskill) in Porto, Portugal
-- 🧠 Deep expertise in **MVVM / MVI**, **Kotlin**, **Java**, and **Gradle KTS**
+- 🧠 Deep expertise in **MVVM / MVI**, **Kotlin**, **BJava**, and **Gradle KTS**
 - ✍️ Technical writer on [**Medium**](https://medium.com/@OrlanDroyd) — sharing Android engineering insights
 - 🌍 Open to **Senior Android** opportunities, remote or on-site in Europe
 - 📫 Reach me at [orlando.programmer@gmail.com](mailto:orlando.programmer@gmail.com)
@@ -109,22 +109,17 @@ data class Developer(
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OrlanDroyd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanDroyd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00E676&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OrlanDroyd&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=ffffff&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanDroyd&theme=dark&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00E676&text_color=ffffff" height="165"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=OrlanDroyd&theme=dark&hide_border=true&background=0d1117&ring=00E676&fire=00E676&currStreakLabel=00E676" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=OrlanDroyd&theme=dark&hide_border=true&background=0d1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=00E676" width="49%"/>
 
-</div>
+<br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=OrlanDroyd&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrlanDroyd&bg_color=0d1117&color=00E676&line=00E676&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -142,17 +137,24 @@ data class Developer(
 
 <div align="center">
 
+[![ChirpSpring](https://github-readme-stats.vercel.app/api/pin/?username=OrlanDroyd&repo=ChirpSpring&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=ffffff)](https://github.com/OrlanDroyd/ChirpSpring)
 [![ChirpKMP](https://github-readme-stats.vercel.app/api/pin/?username=OrlanDroyd&repo=ChirpKMP&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=ffffff)](https://github.com/OrlanDroyd/ChirpKMP)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Summary
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=OrlanDroyd&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
+| Metric | Details |
+|--------|---------|
+| 🧑‍💻 Primary Language | Kotlin (75%+) |
+| 🔓 Public Repos | [OrlanDroyd on GitHub](https://github.com/OrlanDroyd?tab=repositories) |
+| ✍️ Articles | [Medium @OrlanDroyd](https://medium.com/@OrlanDroyd) |
+| 🌍 Location | Porto, Portugal |
+| 💼 Status | Open to Senior Android roles |
 
 </div>
 
