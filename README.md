@@ -38,7 +38,7 @@ data class Developer(
 ```
 
 - 🔭 Currently building at **La Redoute** (via Decskill) in Porto, Portugal
-- 🧠 Deep expertise in **MVVM / MVI**, **Kotlin**, **BJava**, and **Gradle KTS**
+- 🧠 Deep expertise in **MVVM / MVI**, **Kotlin**, **Java**, and **Gradle KTS**
 - ✍️ Technical writer on [**Medium**](https://medium.com/@OrlanDroyd) — sharing Android engineering insights
 - 🌍 Open to **Senior Android** opportunities, remote or on-site in Europe
 - 📫 Reach me at [orlando.programmer@gmail.com](mailto:orlando.programmer@gmail.com)
