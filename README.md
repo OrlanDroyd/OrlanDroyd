@@ -128,7 +128,11 @@ data class Developer(
 ## ✍️ Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updated via GitHub Actions — [see all articles on Medium](https://medium.com/@OrlanDroyd)*
+- [“La capa de Fuente de Datos” &lpar;Parte 6&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/la-capa-de-fuente-de-datos-parte-6-clean-architecture-mvvm-android-2f9e411dc3dd?source=rss-658057e6aea6------2)
+- [“La capa de Datos” &lpar;Parte 5&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/la-capa-de-datos-parte-5-clean-architecture-mvvm-android-e1c9f0479940?source=rss-658057e6aea6------2)
+- [“La capa de UI” &lpar;Parte 4&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-4-la-capa-de-551070211bd7?source=rss-658057e6aea6------2)
+- [“La capa de Presentación” &lpar;Parte 3&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-3-la-capa-de-ece7dcf3dab3?source=rss-658057e6aea6------2)
+- [“La capa de dominio” &lpar;Parte 2&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-2-la-capa-de-c61a5fb59556?source=rss-658057e6aea6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
