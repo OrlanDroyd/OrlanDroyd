@@ -1,0 +1,16 @@
+# .github/workflows/blog-posts.yml
+name: Update Medium posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # runs every day at 6am
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@OrlanDroyd"
