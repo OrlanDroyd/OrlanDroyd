@@ -127,11 +127,11 @@ data class Developer(
 ## ✍️ Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué hablar de KMP en 2026?](https://medium.com/@orlandroyd/por-qu%C3%A9-hablar-de-kmp-en-2026-a6922bf20f8a?source=rss-658057e6aea6------2)
 - [“La capa de Fuente de Datos” &lpar;Parte 6&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/la-capa-de-fuente-de-datos-parte-6-clean-architecture-mvvm-android-2f9e411dc3dd?source=rss-658057e6aea6------2)
 - [“La capa de Datos” &lpar;Parte 5&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/la-capa-de-datos-parte-5-clean-architecture-mvvm-android-e1c9f0479940?source=rss-658057e6aea6------2)
 - [“La capa de UI” &lpar;Parte 4&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-4-la-capa-de-551070211bd7?source=rss-658057e6aea6------2)
 - [“La capa de Presentación” &lpar;Parte 3&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-3-la-capa-de-ece7dcf3dab3?source=rss-658057e6aea6------2)
-- [“La capa de dominio” &lpar;Parte 2&rpar; Clean Architecture + MVVM + Android](https://medium.com/@orlandroyd/principios-de-clean-architecture-mvvm-enfocado-al-desarrollo-android-nativo-parte-2-la-capa-de-c61a5fb59556?source=rss-658057e6aea6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
