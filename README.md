@@ -40,7 +40,7 @@ data class Developer(
 - 🧠 Deep expertise in **MVVM / MVI**, **Kotlin**, **Java**, and **Gradle KTS**
 - ✍️ Technical writer on [**Medium**](https://medium.com/@OrlanDroyd) — sharing Android engineering insights
 - 🌍 Open to **Senior Android** opportunities, remote or on-site in Europe
-- 📫 Reach me at [orlando.programmer@gmail.com](mailto:orlando.programmer@gmail.com)
+- 📫 Reach me at [info@orlandroyd.com](mailto:info@orlandroyd.com)
 - 🌐 Portfolio: [**orlandroyd.com**](https://orlandroyd.com/)
 
 ---
@@ -170,6 +170,6 @@ data class Developer(
 
 *Open to Senior Android opportunities · Remote or On-site in Europe*
 <br/>
-[orlandroyd.com](https://orlandroyd.com) · [LinkedIn](https://linkedin.com/in/OrlanDroyd) · [orlando.programmer@gmail.com](mailto:orlando.programmer@gmail.com)
+[orlandroyd.com](https://orlandroyd.com) · [LinkedIn](https://linkedin.com/in/OrlanDroyd) · [info@orlandroyd.com](mailto:info@orlandroyd.com)
 
 </div>
