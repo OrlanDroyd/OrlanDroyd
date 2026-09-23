@@ -1,0 +1,36 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 3 * * *" }]   # daily at 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # General card: header, activity, repos + 3D contribution calendar
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Europe/Lisbon
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # Languages card
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, shell, dockerfile
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
