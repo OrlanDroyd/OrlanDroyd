@@ -176,8 +176,6 @@ object Orlando : AndroidEngineer {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrlanDroyd&bg_color=0d1117&color=00E676&line=00E676&point=ffffff&area=true&area_color=00E676&hide_border=true" width="100%" alt="Activity graph" />
-
 </div>
 
 ### 🐍 Contribution Snake
