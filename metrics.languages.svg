@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.3781423163085" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="373.3781423163085" y="0" width="86.51251947396949" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.89066179027805" y="0" width="0.06126597414527047" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.9519277644233" y="0" width="0.04807223557667277" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.5112063820165" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="373.5112063820165" y="0" width="86.379623368025" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.89082975004146" y="0" width="0.06117186049050338" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.95200161053197" y="0" width="0.04799838946802825" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>81.17%</div>
+                                <div>81.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>18.81%</div>
+                                <div>18.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
